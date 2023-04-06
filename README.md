@@ -7,3 +7,7 @@ Made by Power-Ware Team
 ```lua
 loadstring(game:Httpget("https://raw.githubusercontent.com/PetruSS1/Power-Ware/main/Beta"))()
 ```
+
+```lua
+Key Located in Private Discord + must be Whitelisted
+```
