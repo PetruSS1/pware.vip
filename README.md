@@ -11,3 +11,4 @@ loadstring(game:HttpGet("https://powerwareoff.000webhostapp.com/Outcome.lua"))()
 ```lua
 Key Located in Private Discord + must be Whitelisted
 ```
+
