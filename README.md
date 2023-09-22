@@ -1,8 +1,9 @@
-# Power-Ware
-Currently in Beta testing
+# pware.vip
+*easy way to cheat*
 
-Made by Power-Ware Team
-![Power-WareImagenew](https://user-images.githubusercontent.com/107261837/230435435-d75c048f-e334-48f6-a9dc-94fdef15bef3.png)
+Made by Pware Softwork Team
+![pwareviplogo](https://github.com/PetruSS1/Power-Ware/assets/107261837/fa08cee6-2473-40ed-9c5c-42878b1e5562)
+
 
 ```lua
 to pre-order go to https://dsc.gg/pware
