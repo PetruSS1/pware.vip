@@ -6,7 +6,7 @@ Made by Pware Softwork Team
 
 
 ```lua
-to pre-order go to https://dsc.gg/pware
+coming soon
 ```
 
 
